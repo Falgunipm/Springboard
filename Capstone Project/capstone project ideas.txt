@@ -1,0 +1,7 @@
+1. Santander Product Recommendation: https://www.kaggle.com/c/santander-product-recommendation/data
+
+2. Zillow Prize: Zillow’s Home Value Prediction (Zestimate): https://www.kaggle.com/c/zillow-prize-1#description
+
+3. Carvana Image Masking Challenge: https://www.kaggle.com/c/carvana-image-masking-challenge
+
+4. Web Traffic Time Series Forecasting: Forecast future traffic to Wikipedia pages https://www.kaggle.com/c/web-traffic-time-series-forecasting#description	
